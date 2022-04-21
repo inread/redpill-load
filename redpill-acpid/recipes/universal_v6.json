@@ -2,13 +2,13 @@
   "files": [
     {
       "name": "install-acpid_v6.sh",
-      "url": "http://cliff.dscloud.me:9999/ds3615_42218/redpill-acpid/src/install-acpid_v6.sh",
+      "url": "http://cliff.dscloud.me:9999/dsm/mods/redpill-acpid/src/install-acpid_v6.sh",
       "sha256": "d6fff6c18d1c719acd2ee01dee367fd7ee3bfc3f1edb3f9dfb74ab7323bfbad9",
       "packed": false
     },
     {
       "name": "acpid_v6.tar.gz",
-      "url": "http://cliff.dscloud.me:9999/ds3615_42218/redpill-acpid/acpid_v6.tar.gz",
+      "url": "http://cliff.dscloud.me:9999/dsm/mods/redpill-acpid/acpid_v6.tar.gz",
       "sha256": "4007bbf6b86185e96415ba4dbbb3bed0ab9124bb0a57e43b9ebf21ee260162c7",
       "packed": false
     }

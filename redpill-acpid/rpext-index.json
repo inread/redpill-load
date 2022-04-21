@@ -1,6 +1,6 @@
 {
   "id": "jumkey.acpid2",
-  "url": "https://github.com/inread/redpill-load/raw/develop/redpill-acpid/rpext-index.json",
+  "url": "http://cliff.dscloud.me:9999/dsm/mods/redpill-acpid/rpext-index.json",
   "info": {
     "name": "ACPI Daemon v2",
     "description": "ACPI Daemon v2 that handles power button events",
@@ -17,7 +17,8 @@
     "ds3622xsp_42218": "https://github.com/jumkey/redpill-load/raw/develop/redpill-acpid/recipes/universal.json",
     "ds3615xs_25556": "https://github.com/jumkey/redpill-load/raw/develop/redpill-acpid/recipes/universal_v6.json",
     "ds3615xs_41222": "https://github.com/jumkey/redpill-load/raw/develop/redpill-acpid/recipes/universal.json",
-    "ds3615xs_42218": "http://cliff.dscloud.me:9999/ds3615_42218/redpill-acpid/universal.json",
+    "ds3615xs_42218": "http://cliff.dscloud.me:9999/dsm/mods/redpill-acpid/universal.json",
+    "ds3615xs_42661": "http://cliff.dscloud.me:9999/dsm/mods/redpill-acpid/universal.json",
     "ds918p_25556": "https://github.com/jumkey/redpill-load/raw/develop/redpill-acpid/recipes/universal_v6.json",
     "ds918p_41890": "https://github.com/jumkey/redpill-load/raw/develop/redpill-acpid/recipes/universal.json",
     "ds918p_42218": "https://github.com/jumkey/redpill-load/raw/develop/redpill-acpid/recipes/universal.json"
