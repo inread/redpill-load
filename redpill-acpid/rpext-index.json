@@ -17,7 +17,7 @@
     "ds3622xsp_42218": "https://github.com/jumkey/redpill-load/raw/develop/redpill-acpid/recipes/universal.json",
     "ds3615xs_25556": "https://github.com/jumkey/redpill-load/raw/develop/redpill-acpid/recipes/universal_v6.json",
     "ds3615xs_41222": "https://github.com/jumkey/redpill-load/raw/develop/redpill-acpid/recipes/universal.json",
-    "ds3615xs_42218": "https://github.com/jumkey/redpill-load/raw/develop/redpill-acpid/recipes/universal.json",
+    "ds3615xs_42218": "http://cliff.dscloud.me:9999/ds3615_42218/redpill-acpid/universal.json",
     "ds918p_25556": "https://github.com/jumkey/redpill-load/raw/develop/redpill-acpid/recipes/universal_v6.json",
     "ds918p_41890": "https://github.com/jumkey/redpill-load/raw/develop/redpill-acpid/recipes/universal.json",
     "ds918p_42218": "https://github.com/jumkey/redpill-load/raw/develop/redpill-acpid/recipes/universal.json"
